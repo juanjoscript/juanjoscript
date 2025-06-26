@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hello! I'm Juan Giraldo
 
-<!--
-**juanjoscript/juanjoscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Web Developer | Passionate about Front-End & UI/UX  
+🌍 Remote-Ready | Based in Colombia  
+📚 Currently learning: React, Node.js & Git best practices  
+🛠 Tech: HTML • CSS • JavaScript • Git/GitHub  
+🎯 Goal: Build clean, responsive web apps and grow as a full-stack developer  
 
-Here are some ideas to get you started:
+📫 Reach me at: [LinkedIn](https://linkedin.com/in/juan...) | [Twitter](https://x.com/juan...) | [My Portfolio](https://juangiraldo.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> “Learning every day. Coding with purpose.” ✨
