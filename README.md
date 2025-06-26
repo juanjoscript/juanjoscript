@@ -11,7 +11,7 @@
 
 
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/juan-giraldodev/) | [Twitter](https://x.com/juanjoscript) | [My Portfolio](https://juangiraldo.dev)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/juan-giraldodev/) | [Twitter](https://x.com/juanjoscript) | [My Portfolio](https://juanjoscript.github.io/portfolio/)
 
 ---
 
